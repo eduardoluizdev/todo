@@ -59,7 +59,7 @@ $ yarn dev
 
 Project developed to fix state teachings within React 💜
 
-This is a project developed during the first Bootcamp Ignite ** Chapter, presented by ** [@Rocketseat] (https://github.com/Rocketseat) \*\*.
+This is a project developed during the first Bootcamp Ignite ** Chapter, presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
 ## 🔖 Template
 
