@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Template</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,6 +32,10 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
+
+## 🔥 Preview
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todoignite.netlify.app/)
 
 ## 🚀 Getting started
 
